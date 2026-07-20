@@ -14,7 +14,7 @@
 <br>
 <br>
 
-<h3><code>raj@github ~ $ whoami</code></h3>
+<h3><code>raj@github:~$ fetch-profile</code></h3>
 
 <table>
 <tr>
@@ -30,11 +30,11 @@
 
 <p><b>Full-Stack Developer · AI Engineer · Building Scalable Web Applications</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rajkiran--dev.app-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rajkiran-dev.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajkiran.pages.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://rajkiran.pages.dev/)
 [![GitHub](https://img.shields.io/badge/GitHub-rajkiranraj-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajkiranraj)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rajkiranraj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajkiranraj)
-[![LeetCode](https://img.shields.io/badge/LeetCode-rajkiranraj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-rajkiranraj-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajkiranraj-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rajkiranraj/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-rajkiranraj0000-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/profile/rajkiranraj0000)
 
 <br>
 
